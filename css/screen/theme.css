@@ -1,0 +1,11 @@
+@media all {
+    /** Start here with your CSS **/
+}
+
+@media screen, projection {
+    /** Start here with your CSS **/
+}
+
+@media print {
+    /** Start here with your print css **/
+}
